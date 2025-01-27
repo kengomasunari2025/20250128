@@ -1,5 +1,3 @@
-import react from "react";
-
 const Titles = [
   { title: "少年野球連盟HP" },
   { title: "株式会社J-REP HP" },

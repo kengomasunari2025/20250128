@@ -1,5 +1,3 @@
-import react from "react";
-
 const Links = [
   { link: "http://kjbc1.com/" },
   { link: "https://www.j-rep.jp/" },
